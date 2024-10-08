@@ -1,4 +1,4 @@
-# Deckout
+# Deckout ♠️♥️♣️♦️
 
 Deckout is a simple card game in Python using Pygame. Draw cards from a standar deck and get poker combinations to add points into your score. The rarer your hand, the most points you get.
 
