@@ -18,5 +18,8 @@ Deckout is a simple card game in Python using Pygame. Draw cards from a standar 
 The card images used in this project were sourced from the [Vector Playing Cards project](https://code.google.com/archive/p/vector-playing-cards/). These images are provided under their respective licenses.
 
 ## Screenshots
-<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/d094fb8c-e323-4a19-bfed-427f07f8e439" />
-<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/2c3f7fc2-6867-4c73-8348-0bc7edf30702" />
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/da6fade9-8fc7-41f3-a443-3cab8d9d9df4" />
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/de6c8163-13d3-47aa-a954-b6424782a2af" />
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/e32fb5b0-09b8-4e72-bb56-34a10329623b" />
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/937ab98c-a1db-49f3-8f43-0e8cd4c6d62d" />
+
